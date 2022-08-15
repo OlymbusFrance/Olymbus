@@ -17,6 +17,14 @@ public class ClassA {
 	private void m4() {
 		System.out.println("Nirmala Seetha Raman visited Chennai");
 	}
+
+	private void m7() {
+		System.out.println("Mr.MerinRajSir handled manual testing ");
+	}
+
+	private void m8() {
+		System.out.println("Mr.MerinRajSir now tuted us Github ");
+	}
 	public static void main(String[] args) {
 
 	}
