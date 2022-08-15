@@ -17,6 +17,14 @@ public class ClassA {
 	private void m4() {
 		System.out.println("Nirmala Seetha Raman visited Chennai");
 	}
+	
+	private void m5() {
+		System.out.println("Ukrane War still exists");
+	}
+
+	private void m6() {
+		System.out.println("China landed in Srilanka");
+	}
 	public static void main(String[] args) {
 
 	}
