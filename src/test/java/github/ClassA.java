@@ -18,6 +18,13 @@ public class ClassA {
 		System.out.println("Nirmala Seetha Raman visited Chennai");
 	}
 
+	private void m5() {
+		System.out.println("Ukrane War still exists");
+	}
+
+	private void m6() {
+		System.out.println("China landed in Srilanka");
+	}
 	private void m7() {
 		System.out.println("Mr.MerinRajSir handled manual testing ");
 	}
@@ -25,6 +32,8 @@ public class ClassA {
 	private void m8() {
 		System.out.println("Mr.MerinRajSir now tuted us Github ");
 	}
+
+
 	public static void main(String[] args) {
 
 	}
